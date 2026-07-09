@@ -1,0 +1,30 @@
+[
+  {
+    "package": "fdi4R",
+    "url": "https://github.com/fdiwg/fdi4R"
+  },
+  {
+    "package": "fdisf",
+    "url": "https://github.com/fdiwg/fdisf"
+  },
+  {
+    "package": "fdisfdata",
+    "url": "https://github.com/fdiwg/fdisfdata"
+  },
+  {
+    "package": "fdishinyr",
+    "url": "https://github.com/fdiwg/fdishinyr"
+  },
+  {
+    "package": "vrule",
+    "url": "https://github.com/fdiwg/vrule"
+  },
+  {
+    "package": "artfishr",
+    "url": "https://github.com/fdiwg/artfishr"
+  },
+  {
+    "package": "repfishr",
+    "url": "https://github.com/fdiwg/repfishr"
+  }
+]
